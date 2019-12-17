@@ -9,7 +9,7 @@ function changeState(state, action){
 
 function dispatch(action){
   state = changeState(state, action)
-  return state 
+  return state
 }
 
 let state = {count: 0}
