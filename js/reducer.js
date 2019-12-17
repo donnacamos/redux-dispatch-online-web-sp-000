@@ -16,7 +16,7 @@ function render(){
   document.body.textContent = state.count
 }
 
-render() 
+render()
 
 let state = {count: 0}
 let action = {type: 'INCREASE_COUNT'}
