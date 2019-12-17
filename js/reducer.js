@@ -17,7 +17,3 @@ function dispatch(action){
 }
 
 render()
-
-
-
-
